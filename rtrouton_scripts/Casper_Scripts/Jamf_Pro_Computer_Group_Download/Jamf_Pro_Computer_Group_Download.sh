@@ -21,7 +21,7 @@
 # please enter the complete directory path into the ComputerGroupDownloadDirectory
 # variable below.
 
-ComputerGroupDownloadDirectory=""
+ComputerGroupDownloadDirectory="/Volumes/1TB/GitHub/Jamf-groups"
 
 # If the ComputerGroupDownloadDirectory isn't specified above, a directory will be
 # created and the complete directory path displayed by the script.
