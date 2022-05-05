@@ -24,7 +24,7 @@ ERROR=0
 # please enter the complete directory path into the PolicyDownloadDirectory
 # variable below.
 
-PolicyDownloadDirectory=""
+PolicyDownloadDirectory="/Volumes/1TB/GitHub/Jamf-policy"
 
 # If the PolicyDownloadDirectory isn't specified above, a directory will be
 # created and the complete directory path displayed by the script.
